@@ -1,7 +1,4 @@
-/*
-Theme by: WebThemez.com
-Note: Please use our back link in your site
-*/
+
 $( function() {
         var endDate = "March 12, 2023 15:03:25";
 
